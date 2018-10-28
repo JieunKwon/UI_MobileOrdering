@@ -11,6 +11,7 @@
 
 <img src="https://github.com/JieunKwon/UI_MobileOrdering/blob/master/Flow1.JPG" width="700px">
  
+    
     < Focus! about the App >
 
 1) Providing options for customizing menu
@@ -20,8 +21,9 @@
 3) Simply and easy to use
 
 
-    < Target Users>
-     
+   
+    < Target Users>         
+
 1) Parents who packaging children’s lunch
 
 2) Individuals/groups who want to save time
