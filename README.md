@@ -6,3 +6,6 @@
 2) Menu List & Menu Detail
 
 3) Add Cart & Order
+
+<img src="https://github.com/JieunKwon/UI_MobileOrdering/flow1.jpg" width="500px">
+
