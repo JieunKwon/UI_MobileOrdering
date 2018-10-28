@@ -12,7 +12,7 @@
 4. Revise wireframes
 
 
-     < Pages' Feature >
+>> Pages' Feature 
 
 1) Main Page & Login
 
@@ -23,7 +23,7 @@
 <img src="https://github.com/JieunKwon/UI_MobileOrdering/blob/master/Flow1.JPG" width="700px">
  
     
-    < Focus! about the App >
+>> Focus! about the App 
 
 1) Providing options for customizing menu
 
@@ -33,7 +33,7 @@
 
 
    
-    < Target Users>         
+>> Target Users      
 
 1) Parents who packaging children’s lunch
 
