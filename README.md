@@ -1,10 +1,16 @@
 # User Interface for Mobile Ordering Food System
 
 
-Create initial wireframes
-Review the concept 
-Finding facts by conducting user survey
-Revise wireframes
+>> Process 
+
+1. Create initial wireframes
+
+2. Review the concept 
+
+3. Finding facts by conducting user survey
+
+4. Revise wireframes
+
 
      < Pages' Feature >
 
