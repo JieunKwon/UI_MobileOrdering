@@ -1,5 +1,8 @@
-# UI_MobileOrdering
+# User Interface for Mobile Ordering Food System
 
-Main Page & Login 
-Menu List & Menu Detail
-Add Cart & Order
+
+1) Main Page & Login
+
+2) Menu List & Menu Detail
+
+3) Add Cart & Order
