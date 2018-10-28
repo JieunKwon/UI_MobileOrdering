@@ -7,5 +7,5 @@
 
 3) Add Cart & Order
 
-<img src="https://github.com/JieunKwon/UI_MobileOrdering/flow1.jpg" width="500px">
+<img src="https://github.com/JieunKwon/UI_MobileOrdering/Flow1.JPG" width="500px">
 
